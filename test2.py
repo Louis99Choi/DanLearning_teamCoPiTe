@@ -1,2 +1,0 @@
-print('copite')
-print("hello")
